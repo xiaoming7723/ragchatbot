@@ -1,0 +1,14 @@
+langchain
+openai
+chainlit
+chromadb
+tiktoken
+PyPDF2
+pymupdf
+pytesseract
+spacy
+pyttsx3
+python-docx
+docx
+cohere
+together
